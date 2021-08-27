@@ -1,0 +1,10 @@
+.document-field{
+    display: grid;
+    grid-template-columns: auto;
+    border: 2px solid seagreen;
+    border-radius: 10px;
+    color: rgb(2, 8, 14);
+    background-color: teal;
+    margin: 5px;
+    
+}
